@@ -1,6 +1,6 @@
 baseURL: "https://Spiritual-Entanglement.github.io/testblog/"
 title: "My Test Blog on GH"
-paginate: 5
+pagination.pagersize: 5
 theme: PaperModX
 
 enableRobotsTXT: true
