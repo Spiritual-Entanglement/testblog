@@ -16,7 +16,11 @@
 &lt;/li&gt;
 &lt;li&gt;Sublist 2
 &lt;ul&gt;
-&lt;li&gt;Item 2.1&lt;/li&gt;
+&lt;li&gt;Item 2.1
+&lt;ul&gt;
+&lt;li&gt;This is a test&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;Item 2.2&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -40,7 +44,11 @@
 </li>
 <li>Sublist 2
 <ul>
-<li>Item 2.1</li>
+<li>Item 2.1
+<ul>
+<li>This is a test</li>
+</ul>
+</li>
 <li>Item 2.2</li>
 </ul>
 </li>
