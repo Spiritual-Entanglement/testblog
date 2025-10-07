@@ -1,6 +1,6 @@
 ---
-date: '2025-10-05T15:16:56-04:00'
-draft: false
+date = '2025-10-05T15:16:56-04:00'
+draft = false
 title: 'Second Post'
 tags: ["NT", "Posts"]
 showToc: true
@@ -27,5 +27,6 @@ more content
     - Item 2
   - Sublist 2
     - Item 2.1
+    - This is a test
     - Item 2.2
 
