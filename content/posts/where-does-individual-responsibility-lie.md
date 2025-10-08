@@ -1,6 +1,6 @@
 ---
 date: '2025-10-08T13:47:28-04:00'
-draft: true
+draft: false
 title: 'Where Does Individual Responsibility Lie'
 tags: ["justification", "individual"]
 showToc: true
