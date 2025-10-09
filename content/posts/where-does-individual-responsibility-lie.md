@@ -2,6 +2,7 @@
 date: '2025-10-08T13:47:28-04:00'
 draft: false
 title: 'Where Does Individual Responsibility Lie'
+categories ["Salvation", "Formation"]
 tags: ["justification", "individual"]
 showToc: true
 TocOpen: true

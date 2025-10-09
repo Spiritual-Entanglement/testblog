@@ -2,6 +2,7 @@
 date: '2025-10-05T15:16:56-04:00'
 draft: false
 title: 'Second Post'
+categories: ["Testing", "General", "Misc"]
 tags: ["NT", "Posts"]
 showToc: true
 TocOpen: true
